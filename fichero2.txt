@@ -1,1 +1,2 @@
 hola desde fichero 2
+ahora en el repo2
